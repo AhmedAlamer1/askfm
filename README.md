@@ -1,9 +1,13 @@
 # askfm
 first oop project with C++.
 
+
+This is a C++ project that allows users to ask, answer and delete questions.
+
+
 I tried to use some of topics of oop.
 
-This is a C++ project that allows users to ask, answer and delete questions. 
+ 
 <h2>
         NOTE
 </h2>
@@ -20,7 +24,7 @@ This is a C++ project that allows users to ask, answer and delete questions.
 
 
   
-I will be thankful to U if you do that:
+
 <h2>
 I will be thankful to U if you do that:
 </h2>
