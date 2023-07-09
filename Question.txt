@@ -1,0 +1,4 @@
+2 2 1 where are you from
+3 1 2 What are Your hobbies
+4 1 2 how old are you
+5 1 2 what's Your favourite PL
