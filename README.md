@@ -45,6 +45,5 @@ I will be thankful to U if you do that:
 -suggest features with some hint to do it(preferred).
 
 
- ### project's design : ![Screenshot (579)](https://github.com/AhmedAlamer1/askfm/assets/139069750/b886157e-0bdf-42cc-836c-1f5b208f5b7e)
-
+ ### project's design : ![Screenshot (570)](https://github.com/AhmedAlamer1/askfm/assets/139069750/c884de98-620c-46ba-b5f4-7afd5072b6c1)
 
