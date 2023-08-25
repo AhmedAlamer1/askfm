@@ -44,7 +44,6 @@ I will be thankful to U if you do that:
 
 -suggest features with some hint to do it(preferred).
 
-project [demo](https://drive.google.com/file/d/1gMG8oKLkXsaTrVoELo2m-XwwBm0m3XPI/view?usp=drive_link)
 
  ### project's design : ![Screenshot (579)](https://github.com/AhmedAlamer1/askfm/assets/139069750/b886157e-0bdf-42cc-836c-1f5b208f5b7e)
 
