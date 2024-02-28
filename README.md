@@ -42,8 +42,17 @@ I will be thankful to U if you do that:
 
 -tell me about any bugs that may be face you during testing.
 
--suggest features with some hint to do it(preferred).
-
-
  ### project's design : ![Screenshot (570)](https://github.com/AhmedAlamer1/askfm/assets/139069750/c884de98-620c-46ba-b5f4-7afd5072b6c1)
+ 
+## Demo
+
+This section showcases the functionality of your chess project through several screenshots demonstrating a basic move scenario.
+
+### Move Scenario:
+
+1. **Initial Board Position:**
+    ![Initial board state](![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/d5d7f937-2e6d-40cd-bb35-209edd9cbf80))
+
+    This screenshot displays the starting position of the chessboard with all pieces in their default locations.
+
 
