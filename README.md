@@ -48,11 +48,9 @@ I will be thankful to U if you do that:
 
 This section showcases the functionality of your chess project through several screenshots demonstrating a basic move scenario.
 
-### Move Scenario:
-
-1. **Initial Board Position:**
-    ![Initial board state](![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/d5d7f937-2e6d-40cd-bb35-209edd9cbf80))
-
-    This screenshot displays the starting position of the chessboard with all pieces in their default locations.
+| **Initial Board Position** | **Piece Selection** | **Piece Movement** |
+|---|---|---|
+| ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/5876ff82-b9da-42aa-aa5b-0b11337e8e91)| ![Screenshot (1061)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155)| ![Screenshot (1062)](https://github.com/AhmedAlamer1/askfm/assets/139069750/0b777f64-d35d-42e1-b119-180082ad930f)
+ |
 
 
