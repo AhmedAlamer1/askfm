@@ -60,9 +60,9 @@ Move Scenario:
 <h3>
   1. Initial Board Position:
 </h3>
-   ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/1ac65c3b-9d2c-4ef6-9ddc-f18c54e338fc)
 
-
+   ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155)
+   
 2. **Piece Selection:**
     ![Screenshot (1061)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155)
 
