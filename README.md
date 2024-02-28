@@ -54,13 +54,13 @@ This section showcases the functionality of your chess project through several s
  |
 
 <h2>
-### Move Scenario:
+Move Scenario:
 </h2>
 
 <h3>
-**1. Initial Board Position:**
- </h3>
-    ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/5876ff82-b9da-42aa-aa5b-0b11337e8e91)
+  1. Initial Board Position:
+</h3>
+   ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/5876ff82-b9da-42aa-aa5b-0b11337e8e91)
 
 2. **Piece Selection:**
     ![Screenshot (1061)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155)
