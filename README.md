@@ -56,7 +56,7 @@ This section showcases the functionality of your chess project through several s
 ### Move Scenario:
 
 1. **Initial Board Position:**
-   <div style="width: 200px; height: 100px;">
+   <div style="width: 150px; height: 75px;">
   ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/5876ff82-b9da-42aa-aa5b-0b11337e8e91)
 </div>
 
