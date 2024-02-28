@@ -53,17 +53,22 @@ This section showcases the functionality of your chess project through several s
 | ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/5876ff82-b9da-42aa-aa5b-0b11337e8e91)| ![Screenshot (1061)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155)| ![Screenshot (1062)](https://github.com/AhmedAlamer1/askfm/assets/139069750/0b777f64-d35d-42e1-b119-180082ad930f)
  |
 
+<h2>
 ### Move Scenario:
+</h2>
 
-1. **Initial Board Position:**
-   <div style="width: 150px; height: 75px;">
+<h4>
+1.Initial Board Position:
   ![Screenshot (1059)](https://github.com/AhmedAlamer1/askfm/assets/139069750/5876ff82-b9da-42aa-aa5b-0b11337e8e91)
-</div>
+</h4>
 
-2. **Piece Selection:**
-   ![Screenshot (1061)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155) width="200" height="100"
+<h4>
+2.Piece Selection:
+   ![Screenshot (1061)](https://github.com/AhmedAlamer1/askfm/assets/139069750/082fcdd8-d740-4ba4-bcc2-82510cc8a155) 
+</h4>
 
-3. **Piece Movement:**
-   ![Screenshot (1062)](https://github.com/AhmedAlamer1/askfm/assets/139069750/0b777f64-d35d-42e1-b119-180082ad930f) width="200" height="100"
-
+<h4>
+3.Piece Movement:
+   ![Screenshot (1062)](https://github.com/AhmedAlamer1/askfm/assets/139069750/0b777f64-d35d-42e1-b119-180082ad930f) 
+</h4>
 
