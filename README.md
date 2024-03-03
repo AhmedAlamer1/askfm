@@ -78,11 +78,11 @@ capture scenario :
 1. Selecting Piece to Capture:
 </h4>
 
-      ![Screenshot (1066)](https://github.com/AhmedAlamer1/askfm/assets/139069750/90f98b37-f706-4abe-99df-08956c6516c9)
+  ![Screenshot (1066)](https://github.com/AhmedAlamer1/askfm/assets/139069750/90f98b37-f706-4abe-99df-08956c6516c9)
 
 <h4>
 2. Capture Execution::
 </h4>  
 
-     ![Screenshot (1067)](https://github.com/AhmedAlamer1/askfm/assets/139069750/c8080684-8a21-46a1-beef-0550f7a54c44)
+   ![Screenshot (1067)](https://github.com/AhmedAlamer1/askfm/assets/139069750/c8080684-8a21-46a1-beef-0550f7a54c44)
 
