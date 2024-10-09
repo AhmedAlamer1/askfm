@@ -43,10 +43,3 @@ I will be thankful to U if you do that:
 -tell me about any bugs that may be face you during testing.
 
  ### project's design : ![Screenshot (570)](https://github.com/AhmedAlamer1/askfm/assets/139069750/c884de98-620c-46ba-b5f4-7afd5072b6c1)
-
-
-2. Capture Execution::
-</h4>  
-
-   ![Screenshot (1067)](https://github.com/AhmedAlamer1/askfm/assets/139069750/c8080684-8a21-46a1-beef-0550f7a54c44)
-
